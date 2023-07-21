@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: Apache Commons Compress
+Implementation-Version: 1.20
+Built-By: bodewig
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Apache Commons Compress
+Implementation-Vendor-Id: org.apache.commons
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0_171
+Specification-Version: 1.20
+Implementation-URL: https://commons.apache.org/proper/commons-compress
+ /
+Implementation-Vendor: The Apache Software Foundation
+
